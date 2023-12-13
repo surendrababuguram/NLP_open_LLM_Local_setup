@@ -1,0 +1,3 @@
+sudo rm -rf /root/.bash_history
+sudo cloud-init clean
+/var/log$  sudo rm -rf cloud-init
